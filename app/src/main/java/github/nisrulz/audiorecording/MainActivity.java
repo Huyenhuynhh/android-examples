@@ -67,7 +67,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-
+//if we aren't supposed to have midnight snack then why
+    //there is light in the fridge??
     @Override
     public void onPause() {
         super.onPause();
